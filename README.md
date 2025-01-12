@@ -8,6 +8,16 @@
 
 见Retrieve
 
+sound_retrieval.py文件用传统的FFT和STFT以及MFCC方法提取特征，然后通过cosine similarity计算相似度来检索声音。
+
+classification_retrieval.py文件用BEATs和CLAP等分类模型，经过修改后用于检索任务。
+
+evaluate_results.py文件包含实验使用到的评价指标。
+
+可以通过run.sh脚本一键测试，命令如下。
+
+`bash run.sh`
+
 ## 使用机器学习来做分类检索
 
 传统的CNN等网络代码以及训练代码已经放至`TraditionalClassification`文件夹下
