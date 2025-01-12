@@ -22,6 +22,6 @@ evaluate_results.py文件包含实验使用到的评价指标。
 
 传统的CNN等网络代码，训练代码以及测试代码已经放至`TraditionalClassification`文件夹下，包含分类和检索两个任务。
 
-我们使用了BEATs， CLAP , ....
+我们还使用了预训练的BEATs， CLAP。
 
 见以各模型名称命名的文件夹
