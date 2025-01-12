@@ -1,14 +1,6 @@
 # BEATs使用
 
-## BEATs的预训练过程
-
-![image-20250112160816320](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250112160816320.png) 
-
-## 我们把微调后的BEATs用于分类/检索任务
-
-![image-20250112160928734](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250112160928734.png) 
-
-![image-20250112160948195](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20250112160948195.png) 
+## 我们把微调后的BEATs用于分类/检索任务 （具体微调细节见实验报告）
 
 use_beats.py是我们开发的，其余来自BEATs的开源仓库[unilm/beats at master · microsoft/unilm · GitHub](https://github.com/microsoft/unilm/tree/master/beats)
 
